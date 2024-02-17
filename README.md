@@ -1,1 +1,1 @@
-# C-
+# C++ code for school
